@@ -45,7 +45,7 @@ La curiosidad es algo que nos impulsa, es algo que se debe de alentar, no es alg
 
 ### CERTIFICATE ROADMAP 🗺️
 
-El desarrollo de las habilidades se debe hacer de forma constante, por ese motivo he diseñado un [Certificate Roadmap](https://github.com/z1roh/z1roh/edit/main/README.md#certificate-roadmap) enfocado para conseguir un expertis dentro del mundo InfoSec.
+El desarrollo de las habilidades se debe hacer de forma constante, por ese motivo he diseñado un **Certificate Roadmap** enfocado para conseguir un expertis dentro del mundo InfoSec.
 
 <details><summary>click for see Roadmap</summary>
 
