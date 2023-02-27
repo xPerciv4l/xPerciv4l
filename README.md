@@ -45,48 +45,11 @@ La curiosidad es algo que nos impulsa, es algo que se debe de alentar, no es alg
 
 ### CERTIFICATE ROADMAP 🗺️
 
-El desarrollo de las habilidades se debe hacer de forma constante, por ese motivo he diseñado un **Certificate Roadmap** enfocado para conseguir un expertis dentro del mundo InfoSec.
+El desarrollo de las habilidades se debe hacer de forma constante, por ese motivo he diseñado un **Certificate Roadmap** enfocado para conseguir un expertis dentro del mundo InfoSec. Mi meta principal es ser un **Exploit Developer**.
 
-<details><summary>click for see Roadmap</summary>
-
- En esta primera fase se debe conseguir los fundamentos necesarios. Activar el **Mindset del Hacker**:
-- [ ] CRTO - Certified Red Team Operator
-- [ ] OSCP - Offensive Security Certificate Professional
-- [ ] CHFI - Computer Hacking Forensic Investigator
----
-En esta segunda fase nos centramos en Profesionalizarnos en los **Ataques Web**:
-
-BREAK [eWPTX - OSWA]
-- [ ] OSWE - Advanced Web Attacks and Exploitation
----
-En esta tercera fase nos centramos en volvernos Expertos en **Penetration Testing** y adentrarnos en el mundo del **Exploit Development**:
-
-BREAK [eCPTX]
-- [ ] OSEP - Evasion Techniques and Breaching Defenses
-- [ ] OSED - Windows User Mode Exploit Development
-
-ACHIEVEMENT -->> [OSCE3]
-
----
-**CONTINUACIÓN**
-- [ ] OSMR - Offensive Security macOS Researcher
-- [ ] OSEE - Offensive Security Exploitation Expert
-
----
-**METAS ACÁDEMICAS**
-
-_Los principales logros que tengo pensado conseguir con este Roadmap son_:
-- [ ] OSEE3
-- [ ] OSEE
-
----
-**METAS PROFESIONALES**
-
-_Las metas como Profesional que tengo pensado lograr son_:
-- [ ] Exploit Development
-- [ ] Red Teamer
-
-</details>
+ #### Roadmap Journey
+ 
+![Roadmap](https://user-images.githubusercontent.com/72032027/221539141-b9d17e12-0a1c-4ba7-9247-c742b45f96bc.png)
 
 ### **Simplemente** 💊
 
